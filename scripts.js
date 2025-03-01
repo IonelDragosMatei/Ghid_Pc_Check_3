@@ -1,3 +1,4 @@
+console.log("dzjx");
 document.addEventListener('DOMContentLoaded', function () {
     const themeToggle = document.querySelector('#color_mode');
     const body = document.body;
