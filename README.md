@@ -1,1 +1,0 @@
-# Ghid_Pc_Check_3
